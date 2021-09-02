@@ -1,0 +1,14 @@
+.root {
+  width: 100%;
+  position: relative;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  padding-left: 15px;
+  min-width: 0;
+  border-radius: 6px;
+  border: 1px solid #e5e5ea /* plasmic-token: fXLSXVsCz3dF */;
+}
+.root:focus {
+  box-shadow: 0px 0px 0px 4px #0095ff80;
+  outline: none;
+}
